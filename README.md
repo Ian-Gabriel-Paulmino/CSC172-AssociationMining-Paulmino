@@ -336,7 +336,7 @@ Users visiting tech and sports sections are less likely to branch into other cat
 
 A 17×17 matrix showing Jaccard similarity between categories:
 
-![Category Co-occurrence Heatmap](06_eda_cooccurrence_heatmap.png)
+![Category Co-occurrence Heatmap](eda_cooccurrence_heatmap.png)
 
 
 
